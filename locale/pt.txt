@@ -1,0 +1,41 @@
+#: locale=pt
+
+## Media
+
+### Title
+panorama_0925C86B_0702_3201_4184_8DDF07390D68.label = IMG_20240419_112747_00_049
+panorama_0C3BD32A_0702_5647_4156_CACCB34CED5A.label = IMG_20240419_113437_00_051
+panorama_2F1044B4_0702_5289_4190_B6A9FC52A0E1.label = IMG_20240419_115427_00_072
+panorama_0C05522B_073D_F645_4192_2442F9D44F9D.label = acesso escada
+panorama_0BC4EFDD_073E_4DFD_418D_B06A08E9B592.label = banho fem
+panorama_0C33A51A_073E_7247_4190_89F90BAEE81A.label = banho masc
+panorama_0C3BDF0F_0702_4E5D_4180_431F4E9DA263.label = corred 1
+panorama_0C3BD6DC_0702_3FC3_418B_6E38CEFA48FF.label = corred 2
+panorama_0C05A1B4_073E_5243_4195_9A8C0F3B6972.label = corred 2
+panorama_0C3B8AFD_0702_37BD_4198_6A0F891BC0AA.label = corred 3
+panorama_0C05E1F0_073E_35C4_4198_8D7DA15E21A6.label = diretoria 1
+panorama_0C059DF1_073E_4DC5_4191_2D6F4AF69CDA.label = diretoria 2
+panorama_0C3C1744_0702_5EC3_4190_914C3D47B0EC.label = entra lateral
+panorama_0C057E2B_073D_CE45_419B_6B965D381997.label = escada
+panorama_0C05CDA1_073E_7245_4190_5736CB306DBF.label = financeiro
+panorama_0C054A21_073D_D644_4197_00D7D26DFCC1.label = quarto_esc
+panorama_0C044EC0_073D_CFC3_4190_29985F8BAA46.label = sl 1
+panorama_0C04FA94_073D_D64C_4183_A76804315C60.label = sl 2
+panorama_0C04B684_073D_DE43_418C_390DF5AC36F4.label = sl 3
+panorama_0C04E27C_073D_D6C3_417E_775CB4FEA684.label = sl 4
+panorama_0C04FE58_073D_CEC3_417D_5868EC706971.label = sl 5
+panorama_0C053A3E_073D_F6BF_4197_048CD97C6292.label = sl 6
+panorama_0C05163E_073D_FEBF_4191_65CF4BC1E565.label = sl 7
+panorama_095CDE96_0702_CE03_4197_C91FC04B6306.label = sla vidro 1
+panorama_0C05B603_073E_3E45_4144_84A28A29CF13.label = sup_corr_final
+panorama_0C05FA05_073E_364D_4183_7B17C1237A6E.label = sup_corr_meio
+panorama_092593B4_0702_3607_4188_87BCDA8ADF4A.label = sup_corred_frente
+panorama_0C0599D7_073E_55CD_4188_B342492D405E.label = sup_sala comp
+panorama_0C05B998_073E_7243_418F_C3C4BE1AD40E.label = verzoo
+
+## Tour
+
+### Description
+
+### Title
+tour.name = COD__21801
